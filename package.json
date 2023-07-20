@@ -1,5 +1,6 @@
 {
   "name": "intro-page",
+  "homepage": "http://josephdattilo03.github.io/intro-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
