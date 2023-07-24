@@ -8,7 +8,7 @@ import joe from "./joe.JPG"
 import lance from "./lance.png"
 import pat from "./pat.png"
 import mark from "./mark.png"
-import allen from "./allen.png"
+import ethan from "./ethan.jpg"
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 AOS.init()
@@ -86,8 +86,8 @@ function App() {
             <h3 className="display-5">Mark Mitu</h3>
           </div>
           <div className="m-5 text-center">
-            <img src={allen} className="profile rounded-circle"></img>
-            <h3 className="display-5">Allen Chou</h3>
+            <img src={ethan} className="profile rounded-circle"></img>
+            <h3 className="display-5">Ethan Nguyen</h3>
           </div>
         </div>
       </section>
