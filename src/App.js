@@ -49,7 +49,7 @@ function App() {
 
           <div class="card m-2 float">
               <div class="card-body mt-4">
-                <h5 class="card-title">Misc. Projects</h5>
+                <h5 class="card-title">Misc Projects</h5>
                 <p class="card-text">Here are some of the projects that I have done at UPenn that I am most proud of:</p>
                 <ul>
                   <li>Othello: For my CIS 1200 final project, I created Othello (Americanized Go). I even added sounds and extra details to make a friendly UI.</li>
